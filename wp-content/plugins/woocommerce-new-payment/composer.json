@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\":"includes/"
+        }
+    },
+    "require": {
+        "automattic/woocommerce": "^3.0",
+        "stripe/stripe-php": "^7.93"
+    }
+}
