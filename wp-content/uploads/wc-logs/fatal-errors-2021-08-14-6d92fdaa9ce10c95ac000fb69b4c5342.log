@@ -1,0 +1,182 @@
+2021-08-14T11:57:14+00:00 CRITICAL Uncaught Error: Call to undefined method MyApp\Admin\Admin::init_form_fields() in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:33
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): MyApp\Admin\Admin->init_function('')
+#1 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#4 E:\laragon\www\ps4task\wp-config.php(103): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\ps4task\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\ps4task\wp-admin\admin.php(34): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 33
+
+2021-08-14T11:57:15+00:00 CRITICAL Uncaught Error: Call to undefined method MyApp\Admin\Admin::init_form_fields() in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:33
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): MyApp\Admin\Admin->init_function('')
+#1 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#4 E:\laragon\www\ps4task\wp-config.php(103): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\ps4task\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\ps4task\wp-admin\admin-ajax.php(22): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 33
+
+2021-08-14T11:57:16+00:00 CRITICAL Uncaught Error: Call to undefined method MyApp\Admin\Admin::init_form_fields() in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:33
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): MyApp\Admin\Admin->init_function('')
+#1 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#4 E:\laragon\www\ps4task\wp-config.php(103): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\ps4task\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\ps4task\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\ps4task\index.php(17): require('E:\\laragon\\www\\...')
+#8 {main}
+  thrown in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 33
+
+2021-08-14T11:57:58+00:00 CRITICAL Uncaught Error: Call to undefined method MyApp\Admin\Admin::init_settings() in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:36
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): MyApp\Admin\Admin->init_function('')
+#1 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#4 E:\laragon\www\ps4task\wp-config.php(103): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\ps4task\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\ps4task\wp-admin\admin.php(34): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 36
+
+2021-08-14T11:58:00+00:00 CRITICAL Uncaught Error: Call to undefined method MyApp\Admin\Admin::init_settings() in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:36
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): MyApp\Admin\Admin->init_function('')
+#1 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#4 E:\laragon\www\ps4task\wp-config.php(103): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\ps4task\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\ps4task\wp-blog-header.php(13): require_once('E:\\laragon\\www\\...')
+#7 E:\laragon\www\ps4task\index.php(17): require('E:\\laragon\\www\\...')
+#8 {main}
+  thrown in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 36
+
+2021-08-14T11:58:15+00:00 CRITICAL Uncaught Error: Call to undefined method MyApp\Admin\Admin::init_settings() in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:36
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): MyApp\Admin\Admin->init_function('')
+#1 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#4 E:\laragon\www\ps4task\wp-config.php(103): require_once('E:\\laragon\\www\\...')
+#5 E:\laragon\www\ps4task\wp-load.php(50): require_once('E:\\laragon\\www\\...')
+#6 E:\laragon\www\ps4task\wp-admin\admin-ajax.php(22): require_once('E:\\laragon\\www\\...')
+#7 {main}
+  thrown in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 36
+
+2021-08-14T12:00:15+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:00:17+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:00:19+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:01:16+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:03:17+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:05:18+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:07:19+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:09:20+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+
+2021-08-14T12:11:21+00:00 CRITICAL Uncaught Error: Class 'MyApp\Admin\WC_Payment_Gateway' not found in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php:5
+Stack trace:
+#0 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(480): include()
+#1 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('E:\\laragon\\www\\...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('MyApp\\Admin\\Adm...')
+#3 E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php(19): spl_autoload_call('MyApp\\Admin\\Adm...')
+#4 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(303): misha_init_gateway_class('')
+#5 E:\laragon\www\ps4task\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#6 E:\laragon\www\ps4task\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#7 E:\laragon\www\ps4task\wp-settings.php(441): do_action('plugins_loaded')
+#8 E:\lara in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\includes\Admin\Admin.php on line 5
+

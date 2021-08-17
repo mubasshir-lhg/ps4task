@@ -1,0 +1,12 @@
+2021-08-13T14:38:18+00:00 CRITICAL require_once(): Failed opening required '' (include_path='.;E:/laragon/etc/php/pear') in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\inde.php on line 12
+
+2021-08-13T14:38:20+00:00 CRITICAL require_once(): Failed opening required '' (include_path='.;E:/laragon/etc/php/pear') in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\inde.php on line 12
+
+2021-08-13T14:38:20+00:00 CRITICAL require_once(): Failed opening required '' (include_path='.;E:/laragon/etc/php/pear') in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\inde.php on line 12
+
+2021-08-13T14:40:49+00:00 CRITICAL require_once(): Failed opening required 'E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-paymentvendor/autoload.php' (include_path='.;E:/laragon/etc/php/pear') in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php on line 13
+
+2021-08-13T14:40:51+00:00 CRITICAL require_once(): Failed opening required 'E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-paymentvendor/autoload.php' (include_path='.;E:/laragon/etc/php/pear') in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php on line 13
+
+2021-08-13T14:40:51+00:00 CRITICAL require_once(): Failed opening required 'E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-paymentvendor/autoload.php' (include_path='.;E:/laragon/etc/php/pear') in E:\laragon\www\ps4task\wp-content\plugins\woocommerce-new-payment\index.php on line 13
+
